@@ -13,7 +13,7 @@ Original file is located at
 
 
 
-print("Terminal de operacoes\n")
+print("Terminal de operacoes kkkkkkk\n")
 contas=[]
 def listar_contas():
   if contas:
